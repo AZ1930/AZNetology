@@ -1,0 +1,9 @@
+{"user_id": "user_id", "category": "category"}
+{"user_id": "7131a87344", "category": "Электроника"}
+{"user_id": "e81975bcc8", "category": "Электроника"}
+{"user_id": "c365a14eea", "category": "Электроника"}
+{"user_id": "3c28d01383", "category": "Досуг"}
+{"user_id": "6948899ab3", "category": "Продукты"}
+{"user_id": "610a548d34", "category": "Электроника"}
+{"user_id": "cb9fd67953", "category": "Бытовая техника"}
+{"user_id": "df85c3cd61", "category": "Бытовая техника"}
